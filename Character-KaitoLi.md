@@ -100,7 +100,7 @@ Parents and Family.
 ## The Mind | Thoughts and Feelings.
 
 1. What is your character’s alignment?
-	- Neutral neutral
+	- Neutral 8 Neutral 10
 2. What is your character’s moral code?
 	- centered around personal freedom and autonomy, with a focus on loyalty, honor, but tempered by a pragmatic recognition of the harsh realities of the world and a willingness to do what it takes to survive and thrive.
 3. Does your character have goals?
@@ -298,24 +298,29 @@ Go to this page to find out your alignment scale.
 
 1. What are (at least) 5 accomplishments your character wishes to achieve? 
 	1. **Mastering the art of stealth**: Kaito dreams of becoming the greatest stealth artist in the land, able to slip in and out of the shadows unnoticed and strike without warning.
-	2. **Acquiring a legendary sword**: Kaito has heard rumors of a legendary weapon said to be able to cut through any material, and he is determined to acquire it. He believes that the weapon will give him the power and prestige he needs to achieve his goals.
+	2. **Acquiring a legendary sword**: Kaito has heard rumors of a legendary weapon, the Mantis Blade, said to be able to cut through any material, and he is determined to acquire it. Mantis Blade would be granted to mighty assassin in Red Mantis. By getting the Mantis Blade, it could be a prove of Kaito to following his mother's path successfuly. However, he left Red Mantis before he could get it. So, getting the Mantis Blade is one of his goal.
 	3. **Visiting the city of Absalom**: Kaito has always been fascinated by the city of Absalom, the largest and most cosmopolitan city in Golarion. He wants to visit the city and experience its vibrant culture, meet its inhabitants, and learn from its masters.
 	4. **Building a network of allies and informants**: Kaito knows that in his line of work, it's essential to have a network of allies and informants who can provide him with information and assistance. He wants to build a network of contacts and allies who can help him achieve his goals.
 	5. **Uncovering the truth about his past**: Kaito has always felt like there's something missing in his past, something that his parents aren't telling him. He wants to uncover the truth about his family's history and the circumstances of his birth.
 
 2. What are (at least) 3 secrets your character is hiding from the party? Examples include:
-	1. **His true occupation as an assassin**: Kaito has not revealed his true occupation as an assassin to many people, and instead presents himself as a lawyer or a merchant. He is careful to keep his two identities separate, and only a few people know about his secret life as an assassin.
-	2. **His past betrayal by the Red Vipers**: Kaito is hiding the fact that he was once a member of the Red Vipers (or a similar organization), and that he was betrayed by them. He is ashamed of his past mistake and does not want others to know about it.
+	1. **His true occupation as an assassin**: Kaito has not revealed his true occupation as an assassin to many people, and instead presents himself as a merchant. He is careful to keep his two identities separate, and only a few people know about his secret life as an assassin.
+	2. **His past betrayal by the Red Mantis**: Kaito is hiding the fact that he was once a member of the Red Mantis, and that he was betrayed by his team leader. He is ashamed of his past mistake and does not want others to know about it.
 	3. **His possession of a cursed item**: Kaito has acquired a cursed item, a small token that grants him enhanced abilities but also slowly drains his life force. He is hiding the fact that he possesses this item, and is trying to find a way to lift the curse before it's too late.
 
 3. Try to tie in (at least) one thing (it can be anything) with another member of the party. Examples include:
 	- Does your character have an unspoken grudge or tension with another party member?
+		- Carnon: Kaito is familiar with the renowned Gunsmith Belron and recognizes the distinctive symbol that Belron used to mark his crafted guns. If Carnon is in possession of a firearm or item bearing this symbol, Kaito may infer a potential connection between Carnon and Belron. Furthermore, as a skilled assassin, Kaito may possess knowledge about the circumstances surrounding Belron's demise, which could influence his interactions with Carnon.
+		- Selenor: Kaito has previously encountered Selenor's sister during a mission, and due to their resemblance, Kaito may find Selenor's appearance familiar, potentially leading to an awkward or intriguing dynamic.
 	- Are their goals or ideals incompatible with the party’s mission?
+		- No, Kaito's objectives are currently aligned with the party's mission to prevent the impending Doomsday.
 	- Is there anything about their personality that might clash with others?
+		- Yes, Kaito's pragmatic and self-serving nature may lead to friction with party members who prioritize altruistic or charitable motives. His chaotic tendencies may also cause tension or unpredictability within the group.
 	- Are they hiding something that could potentially harm or betray the party?
+		- Kaito is concealing his true identity as an assassin. While this secret does not inherently pose a risk to the party, revealing it could potentially lead to personal consequences or danger for Kaito, causing him to act in self-preservation.
 
 4. In addition:
-	1. Kaito's mother's past and her reasons for leaving the Mantis organization could be a great plot hook for Kaito's story. This plot hook could also create an interesting dynamic between Kaito and his mother. Perhaps Zephyrine is reluctant to talk about her past, and Kaito has to navigate her secrets and lies in order to uncover the truth.
+	1. Kaito's mother's past and her reasons for leaving the Red Mantis organization could be a great plot hook for Kaito's story. This plot hook could also create an interesting dynamic between Kaito and his mother. Perhaps Zephyrine is reluctant to talk about her past, and Kaito has to navigate her secrets and lies in order to uncover the truth.
 	2. The Li clan (his father's clan) may be involved in the complex web of politics and intrigue in Goka, and Kaito may find himself caught up in the midst of it. Or, the Li clan may be hiding secrets or scandals that could threaten their reputation and influence.
 
 ---
@@ -330,39 +335,21 @@ Finally, what is your character’s backstory?
 
 **Swashbuckler’s Training (16–20 years old, 4690–4694 AR):** As Kaito entered his teenage years, he became increasingly fascinated with the stories of Tian Xia's legendary warriors and the elegant, deadly art of the sword. He begged his father to arrange for him to study with the great swordmasters of Goka. Jian, seeing his son's passion, arranged for Kaito to train with Master Ling, a renowned swordsman and instructor in the art of the swashbuckler. Under Master Ling's tutelage, Kaito learned the flashy, flamboyant style of the Tian Xia swordsmen, which emphasized finesse, agility, and showmanship. Kaito's natural charisma and flair for the dramatic made him a natural fit for this style.
 
-**Law Studies (18–22 years old, 4692–4696 AR):** While training as a swashbuckler, Kaito also began studying law, recognizing that a knowledge of the legal system would be invaluable in his future endeavors. He proved to be a quick learner, and his natural charisma and persuasive abilities made him a compelling advocate. Kaito's law studies also helped him develop a keen understanding of the intricacies of the legal system, which he would later use to his advantage in his secret life as an assassin.
+**Merchant's Apprentice (18–22 years old, 4692–4696 AR):** While training as a swashbuckler, Kaito also began learning the ins and outs of his father's merchant business. He proved to be a quick learner, and his natural charisma and persuasive abilities made him a skilled negotiator. Kaito's father, Jian, taught him how to navigate the complex web of trade routes, negotiate with suppliers, and manage a successful business. Kaito's experience as a merchant's apprentice helped him develop a keen understanding of the intricacies of commerce and the importance of building relationships.
 
 **The Adventurer’s Life (22–24 years old, 4696–4698 AR):** As Kaito approached adulthood, he began to feel a sense of restlessness, a desire to prove himself as a master of his craft. He spent countless hours honing his skills, practicing his swordplay, and studying the art of stealth and deception. Kaito's parents, seeing their son's dedication, encouraged him to explore the world beyond Goka, to test his skills and find his own path.
 
-**The Assassin Organization (24–28 years old, 4698–4702 AR):** In 4698 AR, Kaito received an offer from a group of elite assassins and spies who operated in the shadows of Tian Xia. The organization was impressed by Kaito's skills and invited him to join their ranks. Kaito accepted, and over the next four years, he worked closely with them, carrying out high-stakes missions and eliminating targets with precision and stealth. During this time, Kaito formed close bonds with his fellows, including a deadly poison expert named Akane and a master of disguise named Jax. He also developed a deep respect for the organization's leader, Madame Tsing, who seemed to embody the values of honor and loyalty that Kaito's parents had instilled in him.
+**The Assassin Organization (24–28 years old, 4698–4702 AR):** In 4698 AR, Kaito received an offer from Red Mantis, a group of elite assassins and spies who operated in the shadows. The organization was impressed by Kaito's skills and invited him to join their ranks. Kaito accepted, and over the next four years, he worked closely with them, carrying out high-stakes missions and eliminating targets with precision and stealth. During this time, Kaito formed close bonds with his fellows, including a deadly poison expert named Akane and a master of disguise named Jax. He also developed a deep respect for his team's leader, Madame Tsing, who seemed to embody the values of honor and loyalty that Kaito's parents had instilled in him.
 
 **The Alchemist’s Apprentice (26–27 years old, 4700–4701 AR):** While working with the organization, Kaito met a mysterious alchemist named Dr. Zhang, who took him under her wing and taught him the basics of alchemy. Kaito proved fascinated by the art of creating potions and elixirs, and he quickly became adept at brewing concoctions that enhanced his physical abilities and granted him temporary advantages in combat. Dr. Zhang's tutelage also introduced Kaito to the world of engineering, and he began to study the intricacies of trap-making and device-crafting.
 
-**The Betrayal (28 years old, 4702 AR):** In 4702 AR, Kaito was sent on a mission to eliminate a high-ranking official in the city of Kaer Maga. However, upon arriving at the target's location, Kaito discovered that the official was, in fact, an innocent man. The true target was a rival assassin who had been using the official as a pawn in a larger game. Kaito realized that the assassin organization had been deceived, and that their leader, Madame Tsing, was not what she seemed. She had been using the organization for her own gain, manipulating them into carrying out missions that furthered her own interests. Feeling betrayed, Kaito abandoned the mission and left the organization, vowing to use his skills for his own purposes rather than serving the interests of others.
+**The Betrayal (28 years old, 4702 AR):** In 4702 AR, Kaito was sent on a mission to eliminate a high-ranking official in the city of Kaer Maga. However, upon arriving at the target's location, Kaito discovered that the official was, in fact, an innocent man. The true target was a rival assassin who had been using the official as a pawn in a larger game. Kaito realized that the assassin organization had been deceived, and that their team leader, Madame Tsing, was not what she seemed. She had been using the organization for her own gain, manipulating them into carrying out missions that furthered her own interests. Feeling betrayed, Kaito abandoned the mission and left the organization, vowing to use his skills for his own purposes rather than serving the interests of others.
 
-**The Lone Wolf (28–32 years old, 4702–4706 AR):** For the next four years, Kaito operated as a lone wolf, taking on missions and jobs that aligned with his own interests. He traveled extensively throughout Golarion, using his skills to gather intelligence, sabotage rival organizations, and eliminate targets that threatened his own agenda. Kaito's reputation as a ghostly assassin and a master of manipulation spread, earning him both admiration and fear from those who knew of his exploits. During this time, Kaito also began to develop his lawyer persona, "Kaito Li, Esq.," as a cover identity to protect himself from those who would seek to do him harm.
+**The Lone Wolf (28–32 years old, 4702–4706 AR):** For the next four years, Kaito operated as a lone wolf, taking on missions and jobs that aligned with his own interests. He traveled extensively throughout Golarion, using his skills to gather intelligence, sabotage rival organizations, and eliminate targets that threatened his own agenda. Kaito's reputation as a ghostly assassin and a master of manipulation spread, earning him both admiration and fear from those who knew of his exploits. During this time, Kaito also began to develop his merchant persona, "Kaito Li, Merchant," as a cover identity to protect himself from those who would seek to do him harm.
 
-**The Lawyer Persona (30–32 years old, 4704–4706 AR):** As Kaito continued to work as a lone wolf, he realized the importance of establishing a convincing cover identity. He used his knowledge of the law and his natural charisma to create a persona that would allow him to move freely in the city and gather intelligence without arousing suspicion. Kaito's lawyer persona became a respected figure in the city's legal circles, known for his sharp mind and his ability to navigate the complexities of the law. Few suspected that the charming and affable lawyer was, in reality, a deadly assassin.
+**The Merchant Persona (30–32 years old, 4704–4706 AR):** As Kaito continued to work as a lone wolf, he recognized the need for a convincing cover identity. Leveraging his knowledge of commerce and natural charisma, he crafted a persona that enabled him to move undetected through the city, gathering intelligence without arousing suspicion. Kaito expanded his father's merchant business, establishing a network of trade routes and connections between Golarion and Tian Xia. He also set up several stores throughout Golarion, using these legitimate business ventures to conceal his clandestine activities. As a result, Kaito's merchant persona earned respect in the city's business circles, with many admiring his shrewd business acumen and ability to navigate complex trade relationships. Few, however, suspected that the charming and affable merchant was, in truth, a deadly assassin.
 
-**The Present (32–36 years old, 4706–4710 AR):** Today, Kaito continues to operate as a lone wolf, using his skills to further his own interests and protect himself from those who would seek to harm him. His lawyer persona remains a convincing cover, allowing him to move freely in the city and gather intelligence without arousing suspicion. Kaito's reputation as a master assassin and a ghostly figure continues to spread, earning him both admiration and fear from those who know of his exploits. Despite the dangers and uncertainties of his life, Kaito remains confident and focused, always looking to the future and the next challenge that awaits him.
-
----
-
-## Backstory by each Year.
-
-Now find out the current campaign's current in-game year.
-For Doomsday Funtime it is currently 4710 AR.
-If your character is 25 years old, then your character was born in 4685 AR.
-
-Take each year, put a colon and write what the character did that year, starting with their birth year.
-In the above example, it would go like this:
-4685 AR, age 0: Born to my parents in Deep-Water.
-4686 AR, age 1: The dragon attack on Deep-Water, parents are dead.
-... (You would fill this in).
-4705 AR, age 20: Achieved first level in rogue.
-4708 AR, age 23: Joined the party.
-
-If you have any other questions about this, please contact me on my telegram.
+**The Present (32–36 years old, 4706–4710 AR):** Kaito's dual life as a merchant and assassin continues to serve him well, allowing him to move undetected through the city and gather intelligence without arousing suspicion. Amarly, a long-term client, has been leveraging Kaito's assassination skills for years, ever since discovering his true occupation. Amarly has come to deeply respect Kaito's capabilities, valuing his expertise in resolving sensitive matters. With the impending Doomsday situation looming, Amarly confides in Kaito, inviting him to join a high-stakes mission to prevent the catastrophe. Seeing an opportunity to serve his country, protect loved ones, and reap a substantial reward, Kaito agrees with a nod, "Why not?". Now, in addition to his regular work as a merchant and assassin, Kaito has taken on a new role: preventing the impending Doomsday.
 
 ---
 
@@ -375,43 +362,18 @@ If you have any other questions about this, please contact me on my telegram.
 3. How long has it been chronologically since your character was first level?
 	- 18 years
 4. What has your character been doing since they started adventuring (aka first level)?
-	- Just mentioned in backstory
+	- Completing missions, and he soon got invitation from Red Mantis
 5. How did you achieve each level? Aka what did you kill to level up?
-	- Just mentioned in backstory
+	- Kaito's skills were honed through completing high-stakes missions, eliminating key targets, and acquiring knowledge in assassination, crafting, and academics through hands-on experience, training, and self-study.
 6. How long did each level take to achieve?
 	- Around 1.5 year on average
 
 ---
 
-## Time since level 1.
-
-This is a continuation of the 'Backstory by each year' section for if you are starting after the first level.
-This section involves writing what your character has been doing since level 1 aka since their backstory.
-
-To do this, you can decide at what age the character became level 1, and what age they are now.
-Example:
-Level 1 at age 20, level 10 at age 25.
-This example would put the character at a progression rate of 6 months to 1 level.
-For a human this is pretty normal, but for an elf you may space levels out over decades, longer for some other races.
-
-Assuming level 1 at age 20, that means they came level 1 in 4705 AR.
-Now we expand out your 'backstory by each year' section but including 'level x'
-after the age of our character before the colon.
-
-Example = 4705 AR, age 20, level 2: Killed my first human and drunk their blood, sanity is starting to leave me...
-
----
-
 ## Changelog.
 
-## 26/11/2024. Version 4.
+## 10/01/2025. Version 1.
+Creation of the Character, Kaito Li
 
-Added the Plot hooks section.
-
-## 13/09/2022. Version 3.
-
-Added some stuff.
-
-## 04/07/2022. Version 2.
-
-Added more content throughout the table.
+## 14/01/2025. Version 2.
+Refine backstory after 1:1
