@@ -306,7 +306,7 @@ Go to this page to find out your alignment scale.
 2. What are (at least) 3 secrets your character is hiding from the party? Examples include:
 	1. **His true occupation as an assassin**: Kaito has not revealed his true occupation as an assassin to many people, and instead presents himself as a merchant. He is careful to keep his two identities separate, and only a few people know about his secret life as an assassin.
 	2. **His past betrayal by the Red Mantis**: Kaito is hiding the fact that he was once a member of the Red Mantis, and that he was betrayed by his team leader. He is ashamed of his past mistake and does not want others to know about it.
-	3. **His possession of a cursed item**: Kaito has acquired a cursed item, a small token that grants him enhanced abilities but also slowly drains his life force. He is hiding the fact that he possesses this item, and is trying to find a way to lift the curse before it's too late.
+	3. **His goal to acquire the legendary sword**: Pursuing the goal may uncover clues that link Kaito to his secret life as an assassin.
 
 3. Try to tie in (at least) one thing (it can be anything) with another member of the party. Examples include:
 	- Does your character have an unspoken grudge or tension with another party member?
